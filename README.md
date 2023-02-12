@@ -1,1 +1,2 @@
 A to-do list web app is a tool that helps people keep track of tasks they need to complete. It typically allows users to create a list of items and prioritize them based on importance or deadline.
+Using a to do web app can help people increase their productivity and stay organized by keeping track of their tasks in one place. It is an essential tool for anyone looking to improve their time management skills and get more done each day.
